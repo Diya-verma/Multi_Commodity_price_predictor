@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Commodity AI | Intelligence Hub</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com" rel="stylesheet">
+    
+    <style>
+        :root {
+            --primary: #6366f1; /* Indigo from your Bike page */
+            --accent: #a855f7;  /* Purple accent */
+            --bg-soft: #fdfbff; /* Light Lavender White */
+            --text-main: #1e1b4b; /* Deep Indigo text */
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Plus Jakarta Sans', sans-serif; }
+        
+        body {
+            background-color: var(--bg-soft);
+            /* Soft Mesh Gradients to fill emptiness */
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(168, 85, 247, 0.1) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(99, 102, 241, 0.1) 0px, transparent 50%);
+            min-height: 100vh;
+            display: flex; align-items: center; justify-content: center;
+            overflow-x: hidden;
+        }
+
+        .main-container { width: 95%; max-width: 1200px; padding: 20px; z-index: 1; }
+
+        /* Status Badge like your Bike Page */
+        .status-badge {
+            display: inline-block; padding: 6px 16px; background: rgba(168, 85, 247, 0.1);
+            border: 1px solid var(--accent); border-radius: 100px; color: var(--accent);
+            font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+            letter-spacing: 2px; margin-bottom: 20px;
+        }
+
+        header { text-align: center; margin-bottom: 60px; }
+        
+        h1 { font-size: 3.5rem; font-weight: 800; color: var(--text-main); line-height: 1.1; }
+        h1 span { color: var(--primary); }
+        header p { color: #64748b; margin-top: 15px; font-size: 1.1rem; }
+
+        /* --- 4 Columns Alignment --- */
+        .grid-layout {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(168, 85, 247, 0.1);
+            padding: 40px 20px;
+            border-radius: 30px;
+            text-decoration: none;
+            text-align: center;
+            transition: all 0.4s cubic-bezier(0.2, 1, 0.3, 1);
+            display: flex; flex-direction: column; align-items: center;
+        }
+
+        .glass-card:hover {
+            transform: translateY(-15px);
+            background: #fff;
+            border-color: var(--primary);
+            box-shadow: 0 25px 50px -12px rgba(99, 102, 241, 0.2);
+        }
+
+        /* Icon Styling matching the Bike Oracle theme */
+        .icon-sphere {
+            width: 70px; height: 70px;
+            background: #f5f3ff;
+            border-radius: 20px;
+            display: flex; align-items: center; justify-content: center;
+            margin-bottom: 25px; transition: 0.4s;
+        }
+
+        .glass-card i { font-size: 2.2rem; color: var(--primary); }
+
+        .glass-card:hover .icon-sphere { 
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            transform: rotate(-10deg);
+        }
+        .glass-card:hover i { color: #fff; }
+
+        .glass-card h3 { font-size: 1.4rem; color: var(--text-main); font-weight: 700; margin-bottom: 10px; }
+        .glass-card p { font-size: 0.9rem; color: #64748b; line-height: 1.4; }
+
+        /* Hidden Label that appears on hover */
+        .action-label {
+            margin-top: 20px; font-weight: 800; font-size: 0.8rem;
+            color: var(--primary); opacity: 0; transform: translateY(10px);
+            transition: 0.3s; text-transform: uppercase;
+        }
+        .glass-card:hover .action-label { opacity: 1; transform: translateY(0); }
+
+        /* For responsive feel */
+        @media (max-width: 992px) { .grid-layout { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 600px) { .grid-layout { grid-template-columns: 1fr; } h1 { font-size: 2.5rem; } }
+    </style>
+</head>
+<body>
+
+    <div class="main-container">
+        <header>
+            <div class="status-badge">Multi-Model Oracle v3.0 Active</div>
+            <h1>Commodity Price <span>Intelligence</span></h1>
+            <p>Select a specialized neural engine for precise market valuation.</p>
+        </header>
+
+        <div class="grid-layout">
+            <!-- CAR -->
+            <a href="/car" class="glass-card">
+                <div class="icon-sphere"><i class="fa-solid fa-car"></i></div>
+                <h3>AutoMobile</h3>
+                <p>Resale trends for Cars & SUVs in India.</p>
+                <div class="action-label">Launch Engine <i class="fa-solid fa-microchip"></i></div>
+            </a>
+
+            <!-- BIKE -->
+            <a href="/bike" class="glass-card">
+                <div class="icon-sphere"><i class="fa-solid fa-motorcycle"></i></div>
+                <h3>MotoIntel</h3>
+                <p>Valuation for Bikes & Scooters (2026).</p>
+                <div class="action-label">Launch Engine <i class="fa-solid fa-microchip"></i></div>
+            </a>
+
+            <!-- LAPTOP -->
+            <a href="/laptop" class="glass-card">
+                <div class="icon-sphere"><i class="fa-solid fa-laptop"></i></div>
+                <h3>Computing</h3>
+                <p>Forecasting for Work & Gaming Laptops.</p>
+                <div class="action-label">Launch Engine <i class="fa-solid fa-microchip"></i></div>
+            </a>
+
+            <!-- MOBILE -->
+            <a href="/mobile" class="glass-card">
+                <div class="icon-sphere"><i class="fa-solid fa-mobile-screen"></i></div>
+                <h3>SmartDevices</h3>
+                <p>Instant resale for iOS & Android mobiles.</p>
+                <div class="action-label">Launch Engine <i class="fa-solid fa-microchip"></i></div>
+            </a>
+        </div>
+    </div>
+
+</body>
+</html>

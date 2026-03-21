@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MotoIntel AI | Bike Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="glass-card">
+            <header>
+                <div class="status-badge">Neural Engine v3.0 Active</div>
+                <h1>Bike Price <span>Oracle</span></h1>
+                <p>Precise Valuation based on Mechanical Specifications</p>
+            </header>
+
+            <form action="/predict/bike" method="POST">
+                <div class="form-grid">
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-motorcycle"></i> Bike Model</label>
+                        <select name="bike_name">
+                            {% for bike in bike_names %}
+                            <option value="{{ bike }}" {% if inputs and inputs.bike_name == bike %}selected{% endif %}>{{ bike }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-gauge-high"></i> Engine (CC)</label>
+                        <input type="number" name="Engine" step="0.1" value="{{ inputs.Engine if inputs else '150' }}" required>                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-leaf"></i> Mileage (kmpl)</label>
+                            <input type="number" name="Mileage" step="0.1" value="{{ inputs.Mileage if inputs else '45' }}" required>                        </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-gas-pump"></i> Fuel Tank (L)</label>
+                        <input type="number" name="Fuel_Capacity" step="0.1" value="{{ inputs.Fuel_Capacity if inputs else '12' }}">
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-weight-hanging"></i> Kerb Weight (kg)</label>
+                        <input type="number" name="Kerb_Weight" step="0.1" value="{{ inputs.Kerb_Weight if inputs else '160' }}">
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-circle-dot"></i> Tyre Type</label>
+                        <select name="Tyre_Type">
+                            <option value="Tubeless" {% if inputs and inputs.Tyre_Type == 'Tubeless' %}selected{% endif %}>Tubeless</option>
+                            <option value="Tube" {% if inputs and inputs.Tyre_Type == 'Tube' %}selected{% endif %}>Tube</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="wide-section">
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-bolt"></i> Performance Specs (Power, Torque, Speed)</label>
+                        <div class="multi-input">
+                            <input type="number" step="0.01" name="Max_Power" value="{{ inputs.Max_Power if inputs else '' }}" placeholder="Max Power (bhp)">
+                            <input type="number" step="0.01" name="Max_Torque" value="{{ inputs.Max_Torque if inputs else '' }}" placeholder="Max Torque (Nm)">
+                            <input type="number" name="Top_Speed" value="{{ inputs.Top_Speed if inputs else '' }}" placeholder="Top Speed (km/h)">
+                        </div>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-star"></i> Overall Condition Rating</label>
+                        <input type="range" name="Rating" min="1" max="10" step="0.1" 
+                            value="{{ inputs.Rating if inputs else '7.5' }}" class="slider" id="ratingRange">
+                        <div class="range-label"><span id="val">{{ inputs.Rating if inputs else '7.5' }}</span> / 10</div>
+                    </div>
+                </div>
+
+                <button type="submit" class="predict-btn">
+                    Analyze Market Value <i class="fa-solid fa-microchip"></i>
+                </button>
+            </form>
+
+            {% if prediction_text %}
+            <div class="result-display animate-up">
+                <span class="label">ESTIMATED VALUATION</span>
+                <div class="price-value">{{ prediction_text }}</div>
+                <p class="disclaimer">Calculated based on {{ bike_name }} specifications.</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        const slider = document.getElementById("ratingRange");
+        const output = document.getElementById("val");
+        slider.oninput = function() { output.innerHTML = this.value; }
+    </script>
+</body>
+</html>

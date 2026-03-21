@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laptop Price Expert | AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="glass-card">
+            <header>
+                <div class="status-badge">AI Engine v2.5 Online</div>
+                <h1>Laptop Price <span>Oracle</span></h1>
+                <p>Advanced Machine Learning for Real-time Valuation</p>
+            </header>
+            <form action="/predict/laptop" method="POST">
+           
+                <div class="form-grid">
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-laptop"></i> Laptop Brand</label>
+                        <select name="brand">
+                            {% for b in brands %}
+                                <option value="{{ b }}" {% if form_data and form_data.brand == b %}selected{% endif %}>{{ b }}</option>
+                                {% endfor %}
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-microchip"></i> Processor Brand</label>
+                        <select name="cpu_brand">
+                            {% for cb in cpu_brands %}
+                            <option value="{{ cb }}" {% if form_data and form_data.cpu_brand == cb %}selected{% endif %}>{{ cb }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-layer-group"></i> CPU Tier</label>
+                        <select name="cpu_tier">
+                            {% for ct in cpu_tiers %}
+                            <option value="{{ ct }}">{{ ct }}</option>
+                            {% endfor %}
+                        </select>
+                    </div>
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-memory"></i> RAM (GB)</label>
+                        <input type="number" name="ram" value="{{ form_data.ram if form_data else '16' }}">
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-database"></i> Storage (GB)</label>
+                        <input type="number" name="storage" value="{{ form_data.storage if form_data else '512' }}">
+                    </div>
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-bolt"></i> Drive Type</label>
+                        <select name="is_ssd">
+                            <option value="SSD" {% if form_data and form_data.is_ssd == 'SSD' %}selected{% endif %}>Solid State (SSD)</option>
+                            <option value="HDD" {% if form_data and form_data.is_ssd == 'HDD' %}selected{% endif %}>Hard Drive (HDD)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="wide-section">
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-expand"></i> Display Specs (Inches & Resolution)</label>
+                        <div class="multi-input">
+                            <input type="number" step="0.1" name="inches" value="15.6" placeholder="Size">
+                            <input type="number" name="res_width" value="1920" placeholder="Width">
+                            <input type="number" name="res_height" value="1080" placeholder="Height">
+                        </div>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-sliders"></i> System Spec Rating</label>
+                        <input type="range" name="rating" min="1" max="100" 
+                            value="{{ form_data.rating if form_data else '75' }}" 
+                            class="slider" id="ratingRange">
+                        <div class="range-label"><span id="val">{{ form_data.rating if form_data else '75' }}</span>/100</div>
+                    </div>
+                </div>
+
+                <button type="submit" class="predict-btn">
+                    Calculate Valuation <i class="fa-solid fa-chevron-right"></i>
+                </button>
+            </form>
+
+            {% if prediction_text %}
+            <div class="result-display animate-up">
+                <span class="label">ESTIMATED MARKET PRICE</span>
+                <div class="price-value">{{ prediction_text }}</div>
+                <p class="disclaimer">Price may vary based on local taxes & condition.</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <script>
+        const slider = document.getElementById("ratingRange");
+        const output = document.getElementById("val");
+        slider.oninput = function() { output.innerHTML = this.value; }
+    </script>
+</body>
+</html>

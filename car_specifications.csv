@@ -1,0 +1,801 @@
+Registration Year,Insurance,Fuel Type,Seats,Kms Driven,RTO,Ownership,Engine Displacement,Transmission,Year of Manufacture,Price
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42
+Jan 2018,-,Diesel,7 Seats,"89,000 Kms",Bangalore,Second Owner,1997 cc,Automatic,2017,₹11.25
+Mar 2015,Third Party,Petrol,5 Seats,"68,397 Kms",Bangalore,First Owner,1499 cc,Manual,2015,₹4.25
+Jul 2025,Comprehensive,Diesel,5 Seats,"6,500 Kms",Bangalore,First Owner,1493 cc,Automatic,2025,₹15
+Oct 2018,-,Petrol,5 Seats,"65,000 Kms",Bangalore,Second Owner,1197 cc,Automatic,2018,₹6.25
+Jun 2024,Comprehensive,Petrol,5 Seats,"25,000 Kms",Bangalore,First Owner,1995 cc,Automatic,2024,₹59.75
+Nov 2012,Comprehensive,Petrol,5 Seats,"58,162 Kms",Bangalore,First Owner,1497 cc,Manual,2012,₹3.25
+Nov 2022,Comprehensive,Petrol,5 Seats,"28,301 Kms",Bangalore,First Owner,1999 cc,Automatic,2022,₹15.54
+Jul 2021,Comprehensive,Petrol,5 Seats,"25,186 Kms",Belgaum,Second Owner,1199 cc,Automatic,2021,₹4.92
+Jan 2017,Comprehensive,Diesel,5 Seats,"46,170 Kms",Bangalore,Second Owner,1995 cc,Automatic,2016,₹24.49
+Nov 2018,Comprehensive,Petrol,5 Seats,"38,336 Kms",Bangalore,First Owner,1197 cc,Automatic,2018,₹6.29
+Mar 2019,Comprehensive,Petrol,5 Seats,"33,022 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹5.89
+Sept 2014,Comprehensive,Petrol,5 Seats,"1,22,986 Kms",Bangalore,Third Owner,1198 cc,Manual,2014,₹2.82
+2023,-,Petrol,5 Seats,"21,000 Kms",Bangalore,First Owner,1497 cc,Manual,2023,₹14.90
+Mar 2020,Comprehensive,Diesel,5 Seats,"15,663 Kms",Bangalore,First Owner,1493 cc,Automatic,2020,₹14.42
+Jan 2018,Comprehensive,Petrol,5 Seats,"19,648 Kms",Udupi,Third Owner,999 cc,Manual,2017,₹2.82
+Jun 2014,Comprehensive,Diesel,5 Seats,"48,667 Kms",Bangalore,Second Owner,1968 cc,Automatic,2014,₹14.14
+2022,Comprehensive,Petrol,5 Seats,"41,000 Kms",Bangalore,Second Owner,1451 cc,Automatic,2022,₹12.50
+Mar 2024,Comprehensive,Petrol,5 Seats,"23,263 Kms",Bangalore,First Owner,1197 cc,Manual,2024,₹6.93
+Jul 2014,Comprehensive,Petrol,5 Seats,"81,745 Kms",Bangalore,First Owner,1198 cc,Manual,2014,₹4.17
+Sept 2019,Comprehensive,Petrol,5 Seats,"25,237 Kms",Bangalore,First Owner,1197 cc,Automatic,2019,₹7.42

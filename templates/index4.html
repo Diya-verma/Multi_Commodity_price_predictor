@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Oracle | AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="main-container">
+        <div class="glass-card">
+            <header>
+                <div class="status-badge">Automotive AI Engine Online</div>
+                <h1>Car Price <span>Oracle</span></h1>
+                <p>Smart Valuation for the Modern Automobile</p>
+            </header>
+
+            <form action="/predict/car" method="POST">
+                <div class="form-grid">
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-user-tie"></i> Ownership</label>
+                        <select name="ownership">
+                            <option value="0" {% if inputs and inputs.ownership == '0' %}selected{% endif %}>First Owner</option>
+                            <option value="1" {% if inputs and inputs.ownership == '1' %}selected{% endif %}>Second Owner</option>
+                            <option value="2" {% if inputs and inputs.ownership == '2' %}selected{% endif %}>Third Owner</option>
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-gas-pump"></i> Fuel Type</label>
+                        <select name="fuel">
+                            <option value="Petrol" {% if inputs and inputs.fuel == 'Petrol' %}selected{% endif %}>Petrol</option>
+                            <option value="Diesel" {% if inputs and inputs.fuel == 'Diesel' %}selected{% endif %}>Diesel</option>
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-gears"></i> Transmission</label>
+                        <select name="transmission">
+                            <option value="0" {% if inputs and inputs.transmission == '0' %}selected{% endif %}>Manual</option>
+                            <option value="1" {% if inputs and inputs.transmission == '1' %}selected{% endif %}>Automatic</option>
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-shield-halved"></i> Insurance Type</label>
+                        <select name="insurance">
+                            <option value="0" {% if inputs and inputs.insurance == '0' %}selected{% endif %}>Comprehensive</option>
+                            <option value="1" {% if inputs and inputs.insurance == '1' %}selected{% endif %}>Third Party</option>
+                            <option value="2" {% if inputs and inputs.insurance == '2' %}selected{% endif %}>Zero Dep</option>
+                        </select>
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-calendar"></i> Year of Manufacture</label>
+                        <input type="number" name="year" value="{{ inputs.year if inputs else '2020' }}" min="2000" max="2026">
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-bolt"></i> Engine (CC)</label>
+                        <!-- Change step="100" to step="1" to allow numbers like 1197 -->
+                        
+                        <input type="number" name="engine" value="{{ inputs.engine if inputs else '1200' }}" step="1">
+
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-road"></i> Kms Driven</label>
+                        <input type="number" name="kms" value="{{ inputs.kms if inputs else '25000' }}">
+                    </div>
+
+                    <div class="input-group">
+                        <label><i class="fa-solid fa-chair"></i> Seats</label>
+                        <input type="number" name="seats" value="{{ inputs.seats if inputs else '5' }}" min="2" max="10">
+                    </div>
+
+                    <div class="input-group">
+                            <label>Type City Name (e.g., Bangalore, Delhi):</label>
+                               <input type="text" name="city_name" value="{{ inputs.city_name if inputs else '' }}" required>
+                    </div>
+                </div>
+                </div>
+
+                <button type="submit" class="predict-btn">
+                    Calculate Valuation <i class="fa-solid fa-chevron-right"></i>
+                </button>
+            </form>
+
+            {% if result %}
+            <div class="result-display animate-up">
+                <span class="label">ESTIMATED MARKET PRICE</span>
+                <div class="price-value">{{ result}}</div>
+                <p class="disclaimer">Based on current Indian Market Trends (2026).</p>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</body>
+</html>
